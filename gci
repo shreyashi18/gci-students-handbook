@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+
+<title>
+cc
+</title>
+
+<link rel="icon" 
+      type="image/png"
+      href="download.png">
+
+<style>
+img 1:hover {
+  animation: shake 0.5s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-1deg); }
+  20% { transform: translate(-3px, 0px) rotate(1deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 2px) rotate(-1deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+      h1{ 
+        color: rgb(0, 153, 204) ;
+        font-size:50px; 
+        font-family:Candara}
+
+      h2{
+        color:#aa7c8a;
+        font-size:100px}
+
+      ul{
+        color:#33539e;
+        font-size:40px   }
+
+        table,th,td{border :1px black}
+        th{color:black}
+
+
+</style>
+
+<head>
+        <meta charset="UTF-8">
+         <meta name="description" content="bakery-chocolate cave">
+          <meta name="keywords" content="collection cakes,flavours,etc.">
+            <meta name="ownwer" content="shreyashi tripathi">
+             <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+          <body style="background-color:powderblue;">
+
+             <img src1="Untitled.PNG" width="1299" height="700" >
+                 <img src="Capture.PNG" width="1299" >
+                     <img src="CAKES.PNG" width="1299">
+
+            <table>
+
+                <tr><td>
+                     <img src="Capture 1.pnG" width="1299" >
+                </td></tr>
+                <td>
+                   <img src="4.PNG" width="1299" >
+                 </td></tr>
+
+                 <td>
+                      <img src="Capture 2.PNG" width="1299" >
+
+                  </td></tr>
+                     </table>
+ 
+
+<h1 align="center" > MY CAKE COLLECTION</h1>
+
+<a href="W.html">
+<img src="b9c13988219f378af315bcc6774b2eee.jpg"  >
+</a>
+
+
+<a href="b.html">
+<img src="de1921b01d61565c67df9cce3aeab289.jpg">
+</a>
+
+
+<a href="br.html">
+<img src= "7117a7e9ed2a325b834f3dfba36dbd4d.jpg">
+</a>
+
+<a href="c.html">
+<img src="409a33f30b298b3976a01b92e1601d7f.jpg">
+</a>
+
+<a href ="INT.html">
+<img src="3b3c25a325d2ca8bff1574fc991546ff.jpg">
+</a>
+<h2 align="center"> POPULAR FLAVOURS</h2>
+<ul >
+ <img src= "c4ae2f8f625f330912a643d473694591.jpg"> <li>CHOCOLATE</li>
+   
+<img src=  "d572d7d7f4417ccc36a7137ff5fd09ec.jpg"> <li>KEY LIME</li>
+
+<img src=  "95fb202d544d4e95211abbde6302d743.jpg"> <li>WHITE CHOCOLATE</li>
+ <img src=  "d1765f189d3bff42e22ac59fd0900f45.jpg"> <li>RED VELVET</li>
+  <img src=  "our story.jpg"><li>GREEN VELVET</li>
+  </ul>
+</body>
+
+
+</html>
